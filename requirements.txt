@@ -1,0 +1,4 @@
+pymc
+scipy
+arviz
+nuscenes-devkit
